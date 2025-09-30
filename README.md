@@ -194,7 +194,7 @@ Get fleet statistics summary
 
 ## 📊 ML Model
 
-The Random Forest classifier uses 6 parameters:
+The Random Forest classifier uses 6 parameters(Random forest is used for demo purpose only):
 - `breaklat` - Breakdown latitude
 - `breaklon` - Breakdown longitude
 - `destlat` - Destination latitude
@@ -204,4 +204,3 @@ The Random Forest classifier uses 6 parameters:
 
 ---
 
-**Built with modern web technologies for intelligent fleet management**
